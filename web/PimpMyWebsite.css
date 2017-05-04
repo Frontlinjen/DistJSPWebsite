@@ -1,0 +1,31 @@
+html, body {
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: #FFFFFF;
+}
+
+.topbar{
+	position: fixed;
+        z-index: 300;
+	right: 0;
+	left: 0;
+	top: 0;
+	list-style-type: none;
+	background-color: #0393DA;
+	margin: 0;
+	padding: 0;
+	height: 48px;
+        text-align: center;
+        font-size: 40px;
+        margin-top: 4px;
+}
+#piechart{
+    width: 900px;
+    height: 500px;
+}
+
